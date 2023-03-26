@@ -1,0 +1,14 @@
+Bước 0
+Chọn file excel, Alt+enter chọn unblock
+.
+.
+.
+Hoặc chọn file excel, chuột phải chọn properties, unblock
+
+
+Có 3 nút nên sẽ có 3 bước:
+Bước 1:
+Bên trái cùng, dưới nút 'Recheck!', điền object name là Hello world. Sau đó bấm 'ADD' 
+Bước 2: xoá cái vừa được thêm vào (bôi đen và chọn delete), Bấm 'Recheck!!'
+Bước 3: bấm 'Mark'
+
